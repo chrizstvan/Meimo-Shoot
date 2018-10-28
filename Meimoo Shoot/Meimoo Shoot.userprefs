@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{FAC28A77-088C-37D1-C554-A6D7D5752122}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CanonManager.cs" Line="16" Column="51" />
+      <File FileName="Assets/Game Models/WaterBall/Scripts/WaterBall.cs" Line="17" Column="24" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="29" Column="45" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="15" Column="22" />
+      <File FileName="Assets/Scripts/EnemySpawn.cs" Line="32" Column="81" NotebookId="1" />
+      <File FileName="Assets/Resources/UI/UIController.cs" Line="45" Column="6" NotebookId="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="23" Column="33" NotebookId="1" />
+      <File FileName="Assets/Scripts/Pets.cs" Line="14" Column="46" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Meimoo_220Shoot PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
